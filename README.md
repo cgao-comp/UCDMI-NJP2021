@@ -8,7 +8,7 @@ Unsupervised community detection in attributed networks based on mutual informat
 
 # Run
 
-`execute.py` is used to execute a full training run on Cora, citeseer, and pubmed.
+code/`execute.py` is used to execute a full training run on Cora, citeseer, and pubmed.
 
 # Reference
 If you make advantage of UCDMI in your research, please cite the following in your manuscript:
